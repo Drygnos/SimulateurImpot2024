@@ -22,6 +22,7 @@ package com.kerware.simulateur;
  **/
 
 public class Simulateur {
+    //ici ça simule !!
 
 
     // Les limites des tranches de revenus imposables
